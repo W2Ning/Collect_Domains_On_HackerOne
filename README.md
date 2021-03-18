@@ -3,7 +3,7 @@
 python3 -m pip install requests jsonpath
 ```
 ```
-python3 Find_Domains_in_HackerOne.py
+python3 Collect_Domains_On_HackerOne.py
 ```
 
 # Collect_Domains_On_HackerOne
